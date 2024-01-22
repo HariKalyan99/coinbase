@@ -1,0 +1,7 @@
+.nav {
+    color: var(--color-text-black);
+    display: flex;
+    width: 60vw;
+    justify-content: space-between;
+    align-items: center;
+}
