@@ -39,11 +39,11 @@
     transform: rotate(360deg);
   }
 } */
-.navigation-Bar {
+/* .navigation-Bar {
   display: flex;
   flex-direction: row;
   border: 2px solid black;
   width: 100vw;
   justify-content: center;
   align-items: center;
-}
+} */
